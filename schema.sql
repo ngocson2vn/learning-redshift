@@ -1,5 +1,5 @@
 CREATE SCHEMA car_portal_app;
-SET search_path TO car_portal_app
+SET search_path TO car_portal_app;
 
 CREATE TABLE account (
   account_id BIGINT PRIMARY KEY,

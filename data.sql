@@ -1,3 +1,5 @@
+SET search_path TO car_portal_app;
+
 INSERT INTO account VALUES
 (1, 'James','Butt','jbutt@gmail.com',md5('jbutt@gmail.com')),
 (2, 'Josephine','Darakjy','josephine_darakjy@darakjy.org',md5('josephine_darakjy@darakjy.org')),
